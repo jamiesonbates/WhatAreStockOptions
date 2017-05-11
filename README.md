@@ -2,10 +2,10 @@
 
 ## Objectives
 * Explain the difference between stock and options.
-* Describe why companies use stock and/or options as compensation.
+* Define why companies use stock and/or options as compensation.
 * Explain what vesting means.
 * Explain what liquidity means.
-* Describe why vesting and liquidity are barriers to converting stock or options into cash.
+* Define why vesting and liquidity are barriers to converting stock or options into cash.
 
 ## Why do companies issue stock?
 *1 Attract and retain employees

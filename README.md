@@ -7,10 +7,6 @@
 * Explain what liquidity means.
 * Describe why vesting and liquidity are barriers to converting stock or options into cash.
 
-
-## About
-This repo
-
 ## Why do companies issue stock?
 *1 Attract and retain employees
 *2 Cost effective

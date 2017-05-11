@@ -1,11 +1,12 @@
 # WhatAreStockOptions
 
 ## Objectives
-* Describe what stock is.
-* Describe what an option is.
-* Explain the benefits of giving stock options to employees for companies.
-* Describe what vesting is.
-* Describe what liquidity is.
+* Explain the difference between stock and options.
+* Describe why companies use stock and/or options as compensation.
+* Explain what vesting means.
+* Explain what liquidity means.
+* Describe why vesting and liquidity are barriers to converting stock or options into cash.
+
 
 ## About
 This repo

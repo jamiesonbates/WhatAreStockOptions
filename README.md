@@ -28,6 +28,7 @@ For example, if you were given the option to buy 10,000 shares at $0.25 cents an
 This is assuming you have the ability to convert your options and sell them as you please. More on this later.
 
 ### Exercise
+Take one minute and think of the differences between stocks and options. Prepare to share with the class.
 
 ## Why do companies issue stock or options?
 There are a multitude of reasons for why companies choose to issue stock or options as part of a compensation package. The two most important and relevant are:
@@ -38,6 +39,9 @@ Lets dig into these two briefly. When hiring, employers hope that new employees 
 
 Companies may also use this type of compensation to lower their payroll costs. Since the cash from stock and options does not come directly from the company, they achieve lower payroll costs while theoretically paying the employee a competitive market rate.
 
+### Exercise
+Turn and talk to your neighbor about the reasons a company uses stocks and options as compensation. If you can, think of additional reasons other than those we spoke about. Prepare to share with the class.
+
 ## What is vesting?
 Companies might employ a retention strategy called vesting. Essentially, employees are given stock or options as part of their compensation package, but will only be able to capitalize on their stocks and options after a period of time.
 
@@ -45,12 +49,18 @@ For example, say you are given $10,000 in stock that has vesting terms of 4-year
 
 There are many rules for vesting, but what you need to know is that if you receive an offer for stock or options as part of your compensation package, you need to ask what the vesting terms are.
 
+### Exercise
+Turn to your neighbor and come up with an analogy that describes how vesting works. Prepare to share with the class.
+
 ## What is liquidity?
 Before now, we have been (mostly) ignoring one crucial part to the equation of accepting stock or options as compensation. The bottom line for any offer that includes this type of compensation is, knowing how you convert it to cash.
 
 For example, employees of Amazon typically receive stock after 2 years of working at Amazon. On offer, lets say they will receive $30,000 of stock after 2 years at Amazon. This means they have a 2 year vesting period. Lets also assume that this employee leaves the day after their stock vests. Luckily for this employee, Amazon is a publicly traded company and the employee can sell their stock immediately and collect the proceeds.
 
 Liquidity refers to the ability to convert a non-cash asset, like stocks or options, to cash. In the case of stocks and options as compensation, in order to capitalize on your stock or option package, you need a place to sell it. Do your research on a company to determine whether such a market exists. If none exists, you will be speculating on the future of the company.
+
+### Exercise
+Take one minute and come up with an example of a situation where liquidity would be a concern when negotiating compensation.
 
 ## Why are vesting and liquidity barriers to converting stock or options into cash?
 
@@ -64,6 +74,9 @@ Vesting rules may require that a tenure exceed a certain period of time before y
 ### Things to consider: liquidity
 * If there is no market where you can convert your stock or options into cash, you need to consider IF there is any value to them. This pertains directly to the company offering you stocks and options. Are you willing to risk it?
 * If there is a market, liquidity isn't a concern.
+
+### Exercise
+Take 2 minutes and summarize why vesting and liquidity are important considerations when considering compensation packages that include stock and options. Come up with at least 1 example of a situation where you would refuse the offer.
 
 ## Resources
 * [How Employee Stock Options Work in Startup Companies - Forbes](https://www.forbes.com/sites/allbusiness/2016/02/27/how-employee-stock-options-work-in-startup-companies/#64e4a91d6633)

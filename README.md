@@ -16,9 +16,20 @@ Another example of stock is privately held stock. This is stock where there is n
 
 Employees of companies can benefit from recieving stock and can recieve both public or private stock. The terms are really up to the company.
 
+## What are options?
+Options are closely related to stock, because essentially, an option is the right but not the obligation to buy or sell stock. In cases where employees are offered options, they will most likely be offered the right to buy stock at a pre-determined "strike price." 
+
+What does this mean? Well, if you were offered an option to buy 10,000 shares at $0.25 cents you would be able to purchase 10,000 shares at $0.25 per share for a grand total of $2500. That doesn't sound like a very good deal, especially if the stock was traded in a public market already. 
+
+The importance of an option lies with the fact that your "strike price" does not change as the stock gains or loses value. If you are given options at the start of your tenure with a company, you stay with the company for 2 years, and during that time the company grows in value, then you can buy shares in the company by executing your options and immediately sell for a profit.
+
+For example, if you were given the option to buy 10,000 shares at $0.25 cents and the company grew to $1.00 per share, you could buy 10,000 shares for $2,500 and immediately sell the shares for $1, grossing a profit of $7,500.
+
+This is assuming you have the ability to convert your options and sell them as you please. More on this later.
+
 ## Why do companies issue stock?
-*1 Attract and retain employees
-*2 Cost effective
+1. Attract and retain employees
+2. Cost effective
 
 ## Resources
 * [How Employee Stock Options Work in Startup Companies - Forbes](https://www.forbes.com/sites/allbusiness/2016/02/27/how-employee-stock-options-work-in-startup-companies/#64e4a91d6633)

@@ -37,30 +37,31 @@ Lets dig into these two briefly. When hiring, employers hope that new employees 
 Companies may also use this type of compensation to lower their payroll costs. Since the cash from stock and options does not come directly from the company, they achieve lower payroll costs while theoretically paying the employee a competitive market rate.
 
 ## What is vesting?
-Companies might employ a retention strategy called vesting. Essentially, employees are given stock or options as part of their compensation package, but will only be able to captialize on their stocks and options after a period of time.
+Companies might employ a retention strategy called vesting. Essentially, employees are given stock or options as part of their compensation package, but will only be able to capitalize on their stocks and options after a period of time.
 
 For example, say you are given $10,000 in stock that has vesting terms of 4-year vest with a 1-year cliff vest. This means that you will be able to access 25% or $2,500 dollars of the stock after 1 year, with the rest vesting on a rolling (i.e. monthly basis) basis. So after 13 months, you will have access to $2,708 of your stock or (25% + 1/36).
 
-There are many rules for vesting, but what you need to know is that if you receive an offer for stock or options as part of your compensation package, you need to ask what the vesting terms are. This is important for many reasons, a few being as follows:
-* If you aren't ready to commit to a company for the vesting period, much of your compensation could be worthless if you leave before the period ends.
-* Especially for your first job, you may be able to make up the difference between lost compensation from leaving a company before you're fully vested, by simply getting a better job and offer at a new company (your job experience is valuable).
+There are many rules for vesting, but what you need to know is that if you receive an offer for stock or options as part of your compensation package, you need to ask what the vesting terms are.
 
 ## What is liquidity?
-Before now, we have been (mostly) ignoring one crucial part to the equation of accepting stock or options as compensation. The bottom line for any offer that includes this type of compensation is, how do you convert it to cash.
+Before now, we have been (mostly) ignoring one crucial part to the equation of accepting stock or options as compensation. The bottom line for any offer that includes this type of compensation is, knowing how you convert it to cash.
 
-Employees of Amazon typically receive stock after 2 years of working at Amazon. On offer, lets say they will receive $30,000 of stock after 2 years at Amazon. This means they have a 2 year vesting period. Lets also assume that this employee leaves the day after their stock vests. Luckily for this employee, Amazon is a publicly traded company and the employee can sell their stock immediately and collect the proceeds.
+For example, employees of Amazon typically receive stock after 2 years of working at Amazon. On offer, lets say they will receive $30,000 of stock after 2 years at Amazon. This means they have a 2 year vesting period. Lets also assume that this employee leaves the day after their stock vests. Luckily for this employee, Amazon is a publicly traded company and the employee can sell their stock immediately and collect the proceeds.
 
-What happens if a company gives you a percentage of ownership and there is no market to capitalize on this part of your compensation. In many cases, you will be banking on the company becoming successful, being taken public, where you can then convert your shares to cash.
+Liquidity refers to the ability to convert a non-cash asset, like stocks or options, to cash. In the case of stocks and options as compensation, in order to capitalize on your stock or option package, you need a place to sell it. Do your research on a company to determine whether such a market exists. If none exists, you will be speculating on the future of the company.
 
-Actually, in most cases, there will be no market available to capitalize on your stocks or options. Unless the company's stock is traded on a public market, you will be speculating about the companies future.
+## Why are vesting and liquidity barriers to converting stock or options into cash?
 
-What you need to know is that stock and options come with strings attached. Liquidity is a big part of this. If you cannot convert your ownership into cash, then what good is ownership to you? In some cases, the company will be successful and you will have the opportunity to convert, but you also risk missing out entirely.
+Vesting rules may require that a tenure exceed a certain period of time before you are compensated in stock or options. Liquidity refers to your ability to convert non-cash assets into cash.
 
+### Things to consider: vesting
+* If you aren't ready to commit to a company for the vesting period, much of your compensation could be worthless if you leave before the period ends.
+* Especially for your first job, you may be able to make up the difference between lost compensation from leaving a company before you're fully vested, by simply getting a better job and offer at a new company (your job experience is valuable).
+* Time value of money: if you don't receive a large portion of your compensation until down the line, does this differ from a situation where you received this compensation as part of your salary.
 
-
-
-
-
+### Things to consider: liquidity
+* If there is no market where you can convert your stock or options into cash, you need to consider IF there is any value to them. This pertains directly to the company offering you stocks and options. Are you willing to risk it?
+* If there is a market, liquidity isn't a concern.
 
 ## Resources
 * [How Employee Stock Options Work in Startup Companies - Forbes](https://www.forbes.com/sites/allbusiness/2016/02/27/how-employee-stock-options-work-in-startup-companies/#64e4a91d6633)

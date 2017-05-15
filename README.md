@@ -14,8 +14,6 @@ The most common example of stock is in the stock market. Stock (or shares) are t
 
 Another example of stock is privately held stock. This is stock where there is no public market to buy and sell your ownership of a company. This might happen if you start a company and give out shares to investors who give you money to build your company in exchange for some ownership of the company, for example.
 
-Employees of companies can benefit from recieving stock and can recieve both public or private stock. The terms are really up to the company.
-
 ## What are options?
 Options are closely related to stock, because essentially, an option is the right but not the obligation to buy or sell stock. In cases where employees are offered options, they will most likely be offered the right to buy stock at a pre-determined "strike price."
 
@@ -39,7 +37,7 @@ Companies may also use this type of compensation to lower their payroll costs. S
 ## What is vesting?
 Companies might employ a retention strategy called vesting. Essentially, employees are given stock or options as part of their compensation package, but will only be able to capitalize on their stocks and options after a period of time.
 
-For example, say you are given $10,000 in stock that has vesting terms of 4-year vest with a 1-year cliff vest. This means that you will be able to access 25% or $2,500 dollars of the stock after 1 year, with the rest vesting on a rolling (i.e. monthly basis) basis. So after 13 months, you will have access to $2,708 of your stock or (25% + 1/36).
+For example, say you are given $10,000 in stock that has vesting terms of 4-year vest with a 1-year cliff vest. This means that you will be able to access 25% or $2,500 dollars of the stock after 1 year, with the rest vesting on a rolling (i.e. monthly) basis. So after 13 months, you will have access to $2,708 of your stock or (25% + 1/36).
 
 There are many rules for vesting, but what you need to know is that if you receive an offer for stock or options as part of your compensation package, you need to ask what the vesting terms are.
 

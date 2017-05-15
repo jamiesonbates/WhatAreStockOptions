@@ -36,6 +36,19 @@ Lets dig into these two briefly. When hiring, employers hope that new employees 
 
 Companies may also use this type of compensation to lower their payroll costs. Since the cash from stock and options does not come directly from the company, they achieve lower payroll costs while theoretically paying the employee a competitive market rate.
 
+## What is vesting?
+Companies might employ a retention strategy called vesting. Essentially, employees are given stock or options as part of their compensation package, but will only be able to captialize on their stocks and options after a period of time. 
+
+For example, say you are given $10,000 in stock that has vesting terms of 4-year vest with a 1-year cliff vest. This means that you will be able to access 25% or $2,500 dollars of the stock after 1 year, with the rest vesting on a rolling (i.e. monthly basis) basis. So after 13 months, you will have access to $2,708 of your stock or (25% + 1/36).
+
+There are many rules for vesting, but what you need to know is that if you recieve an offer for stock or options as part of your compensation package, you need to ask what the vesting terms are. This is important for many reasons, a few being as follows:
+* If you aren't ready to commit to a company for the vesting period, much of your compensation could be worthless if you leave before the period ends.
+* Especially for your first job, you may be able to make up the difference between lost compensation from leaving a company before you're fully vested, by simply getting a better job and offer at a new company (your job experience is valuable).
+
+
+
+
+
 
 
 ## Resources

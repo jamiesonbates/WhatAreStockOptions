@@ -8,7 +8,7 @@
 * Define why vesting and liquidity are barriers to converting stock or options into cash.
 
 ## What is stock?
-Stock itself is a pretty simple idea. To have stock in a company means that you own a percentage of the company. If the company has value, then you own some of that value. 
+Stock itself is a pretty simple idea. To have stock in a company means that you own a percentage of the company. If the company has value, then you own some of that value.
 
 The most common example of stock is in the stock market. Stock (or shares) are traded on stock exchanges like the NYSE or NASDAQ, for example. Some one buys stock that someone else is selling and stock are exchanged for cash, in most cases. This type of stock is publicly traded and stock markets make buying or selling very easy.
 
@@ -17,9 +17,9 @@ Another example of stock is privately held stock. This is stock where there is n
 Employees of companies can benefit from recieving stock and can recieve both public or private stock. The terms are really up to the company.
 
 ## What are options?
-Options are closely related to stock, because essentially, an option is the right but not the obligation to buy or sell stock. In cases where employees are offered options, they will most likely be offered the right to buy stock at a pre-determined "strike price." 
+Options are closely related to stock, because essentially, an option is the right but not the obligation to buy or sell stock. In cases where employees are offered options, they will most likely be offered the right to buy stock at a pre-determined "strike price."
 
-What does this mean? Well, if you were offered an option to buy 10,000 shares at $0.25 cents you would be able to purchase 10,000 shares at $0.25 per share for a grand total of $2500. That doesn't sound like a very good deal, especially if the stock was traded in a public market already. 
+What does this mean? Well, if you were offered an option to buy 10,000 shares at $0.25 cents you would be able to purchase 10,000 shares at $0.25 per share for a grand total of $2500. That doesn't sound like a very good deal, especially if the stock was traded in a public market already.
 
 The importance of an option lies with the fact that your "strike price" does not change as the stock gains or loses value. If you are given options at the start of your tenure with a company, you stay with the company for 2 years, and during that time the company grows in value, then you can buy shares in the company by executing your options and immediately sell for a profit.
 
@@ -37,13 +37,24 @@ Lets dig into these two briefly. When hiring, employers hope that new employees 
 Companies may also use this type of compensation to lower their payroll costs. Since the cash from stock and options does not come directly from the company, they achieve lower payroll costs while theoretically paying the employee a competitive market rate.
 
 ## What is vesting?
-Companies might employ a retention strategy called vesting. Essentially, employees are given stock or options as part of their compensation package, but will only be able to captialize on their stocks and options after a period of time. 
+Companies might employ a retention strategy called vesting. Essentially, employees are given stock or options as part of their compensation package, but will only be able to captialize on their stocks and options after a period of time.
 
 For example, say you are given $10,000 in stock that has vesting terms of 4-year vest with a 1-year cliff vest. This means that you will be able to access 25% or $2,500 dollars of the stock after 1 year, with the rest vesting on a rolling (i.e. monthly basis) basis. So after 13 months, you will have access to $2,708 of your stock or (25% + 1/36).
 
-There are many rules for vesting, but what you need to know is that if you recieve an offer for stock or options as part of your compensation package, you need to ask what the vesting terms are. This is important for many reasons, a few being as follows:
+There are many rules for vesting, but what you need to know is that if you receive an offer for stock or options as part of your compensation package, you need to ask what the vesting terms are. This is important for many reasons, a few being as follows:
 * If you aren't ready to commit to a company for the vesting period, much of your compensation could be worthless if you leave before the period ends.
 * Especially for your first job, you may be able to make up the difference between lost compensation from leaving a company before you're fully vested, by simply getting a better job and offer at a new company (your job experience is valuable).
+
+## What is liquidity?
+Before now, we have been (mostly) ignoring one crucial part to the equation of accepting stock or options as compensation. The bottom line for any offer that includes this type of compensation is, how do you convert it to cash.
+
+Employees of Amazon typically receive stock after 2 years of working at Amazon. On offer, lets say they will receive $30,000 of stock after 2 years at Amazon. This means they have a 2 year vesting period. Lets also assume that this employee leaves the day after their stock vests. Luckily for this employee, Amazon is a publicly traded company and the employee can sell their stock immediately and collect the proceeds.
+
+What happens if a company gives you a percentage of ownership and there is no market to capitalize on this part of your compensation. In many cases, you will be banking on the company becoming successful, being taken public, where you can then convert your shares to cash.
+
+Actually, in most cases, there will be no market available to capitalize on your stocks or options. Unless the company's stock is traded on a public market, you will be speculating about the companies future.
+
+What you need to know is that stock and options come with strings attached. Liquidity is a big part of this. If you cannot convert your ownership into cash, then what good is ownership to you? In some cases, the company will be successful and you will have the opportunity to convert, but you also risk missing out entirely.
 
 
 

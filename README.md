@@ -27,9 +27,16 @@ For example, if you were given the option to buy 10,000 shares at $0.25 cents an
 
 This is assuming you have the ability to convert your options and sell them as you please. More on this later.
 
-## Why do companies issue stock?
-1. Attract and retain employees
-2. Cost effective
+## Why do companies issue stock or options?
+There are a multitude of reasons for why companies choose to issue stock or options as part of a compensation package. The two most important and relevant are:
+1. To retain employees
+2. Lower costs
+
+Lets dig into these two briefly. When hiring, employers hope that new employees stay with the company as long as possible. This is because hiring and training are costly and in general, lower turnover will lead to a stronger company. To retain employees, companies may use stock and options as compensation to entice employees to stay longer. In a simple example, employees who stay longer recieve more stock each year. More commonly, however, employees are given stocks or options as compensation with the requirement of vesting, which tightly links compensation to tenure. More on this later.
+
+Companies may also use this type of compensation to lower their payroll costs. Since the cash from stock and options does not come directly from the company, they achieve lower payroll costs while theoretically paying the employee a competitive market rate.
+
+
 
 ## Resources
 * [How Employee Stock Options Work in Startup Companies - Forbes](https://www.forbes.com/sites/allbusiness/2016/02/27/how-employee-stock-options-work-in-startup-companies/#64e4a91d6633)
